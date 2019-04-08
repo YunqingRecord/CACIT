@@ -1,2 +1,2 @@
-# CACIT
-CACIT competition
+# CAICT
+CAICT competition
